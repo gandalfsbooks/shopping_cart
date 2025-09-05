@@ -6,3 +6,5 @@
 app/              @ecohen-opslevel
 
 components/*.md   @ianroys-opslevel
+
+routes/           @louisa-opslevel
