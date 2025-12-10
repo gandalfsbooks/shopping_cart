@@ -96,7 +96,3 @@ This runbook covers five frequent issues encountered in a Rails‑backed SPA for
 8. Replay dead jobs after verifying they’re safe to run.
 9. Deploy job‑related code changes if recently modified.
 10. Monitor for resumed processing.
-
----
-
-**End of Runbook**
