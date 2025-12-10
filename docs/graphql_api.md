@@ -1,4 +1,4 @@
-# GraphQL API README
+# GraphQL API Overview
 
 This document provides an overview of the GraphQL architecture used by the Ruby on Rails–backed single-page application (SPA) for the online shopping platform. It covers API visibility, feature gating, tenancy, best practices, and request context.
 
