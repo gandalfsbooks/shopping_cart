@@ -1,4 +1,4 @@
-# Runbook: Common Issues in a Ruby on Rails Single‑Page Application (SPA)
+# Runbooks
 
 This runbook covers five frequent issues encountered in a Rails‑backed SPA for an online shopping site, along with clear steps to diagnose and resolve each.
 
