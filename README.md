@@ -1,4 +1,4 @@
-# Ruby on Rails Development Guide
+# Org Development Guide
 
 This guide covers development practices, git workflow, testing, and local setup for our Rails application.
 
